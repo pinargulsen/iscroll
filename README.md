@@ -1,5 +1,4 @@
 <h1 id="intro">iScroll, smooth scrolling for the web</h1>
-
 iScroll is a high performance, small footprint, dependency free, multi-platform javascript scroller.
 
 It works on desktop, mobile and smart TV. It has been vigorously optimized for performance and size so to offer the smoothest result on modern and old devices alike.
